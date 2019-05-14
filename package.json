@@ -1,0 +1,20 @@
+{
+  "name": "parallax-css",
+  "version": "1.0.0",
+  "description": "parallax-css",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstewa91/parallax-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cstewa91/parallax-css/issues"
+  },
+  "homepage": "https://github.com/cstewa91/parallax-css#readme"
+}
